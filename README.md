@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Eric Xue 👋
 
-<!--
-**ericxuejc/ericxuejc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an undergraduate researcher at **Stanford University**, interested in **Computer Vision, Generative AI, and 3D Vision**.
 
-Here are some ideas to get you started:
+### Research Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Computer Vision & 3D Understanding** — 3D scene understanding, human motion, and video understanding.
+- **Generative Models** — Generative approaches to visual content creation and manipulation.
+- **Computational Photography** — Intelligent camera systems, photographic control, and visual creativity.
+- **Spatial Intelligence** — Learning representations of the 3D world for perception and planning.
+
+### Current Focus
+
+I'm currently exploring research problems at the intersection of computer vision, generative modeling, and computational photography.
+
+### Contact
+
+📧 ericxue@stanford.edu
